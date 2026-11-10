@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+models/*
+!models/startup_shield_final_bundle.pkl
+data/raw/*
+!data/raw/startup data.csv
+data/processed/*
+!data/processed/.gitkeep
